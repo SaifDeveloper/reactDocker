@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
             <h1>Hello!</h1>
+            <h2>Automated deployment!</h2>
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
