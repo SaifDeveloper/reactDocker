@@ -22,6 +22,7 @@ class App extends Component {
           </a>
         </header>
         <p>This was commited from feature Branch!</p>
+        <p>This was also commited from feature Branch!</p>
       </div>
     );
   }
